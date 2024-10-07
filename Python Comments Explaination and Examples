@@ -1,0 +1,9 @@
+use # symbol to start writing a comment.
+it extends up to the newline character.
+comments are for programmers to notify the programmers idea of what the code is for.
+comments can be placed at the end of a line, and Python will ignore the rest of the line.
+a comment does not have to be text that explains the code, it can also be used to prevent Python from executing order.
+
+Example:
+#print("Hello, World") 
+print("Cheers, Mate!")
